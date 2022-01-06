@@ -23,6 +23,7 @@ The following s an example of creating a record producer from an extended task t
 ### Employee Center
 ![image](https://user-images.githubusercontent.com/12488769/147843829-63c49bfe-a1d1-417c-bd48-3587e9198e74.png)
 
+https://docs.servicenow.com/bundle/rome-employee-service-management/page/product/employee-center/concept/sp-versus-ec.html
 
 ### Record Prodcer from Incident
 ![image](https://user-images.githubusercontent.com/12488769/147958941-134cde29-776a-424e-9095-09a23cb4e2bf.png)
